@@ -6,4 +6,5 @@ fun main(args: Array<String>) {
     var sum = 0
     for (item in arr) sum+=item
     println(sum)
+
 }
